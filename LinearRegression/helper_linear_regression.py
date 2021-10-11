@@ -67,7 +67,7 @@ def testcomputederivatives(compute_derivatives):
     elif dTh1 == 4.5:
         print('Incorrect result for dTh1. Probably you forgot the "-" in your formula :).')
     else:
-        print('Incorrect result for dTh0.')
+        print('Incorrect result for dTh1.')
 
 
 def testupdatetheta(update_theta):
